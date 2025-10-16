@@ -10,7 +10,7 @@
 ### 🚀 About Me
 
 - 📱 I love building clean and user-friendly **iOS applications**
-- 🎯 Currently improving my **Swift & UIKit/SwiftUI skills**
+- 🎯 Currently improving my **Swift & SwiftUI skills**
 - 🌱 Always learning and experimenting with new **mobile UI ideas**
 
 ---
