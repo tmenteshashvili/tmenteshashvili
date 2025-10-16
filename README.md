@@ -15,10 +15,12 @@
 
 ---
 
-### 📫 Connect With Me
+### 📬 Connect With Me
+
 - **Email:** takomenteshashvili0@gmail.com  
-- **LinkedIn:** https://www.linkedin.com/in/tako-menteshashvili/  
-- **Instagram:** https://www.instagram.com/swiftly.tako/
+- **LinkedIn:** [linkedin.com/in/tako-menteshashvili](https://www.linkedin.com/in/tako-menteshashvili/)  
+- **Instagram:** [@swiftly.tako](https://www.instagram.com/swiftly.tako/)
+
 ---
 
 ### 🛠️ Skills & Tools
