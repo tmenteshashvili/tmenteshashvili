@@ -5,7 +5,6 @@
   Passionate about <b>Swift</b> and crafting beautiful <b>user experiences</b>.
 </p>
 
----
 
 ### 🚀 About Me
 
@@ -13,15 +12,13 @@
 - 🎯 Currently improving my **Swift & SwiftUI skills**
 - 🌱 Always learning and experimenting with new **mobile UI ideas**
 
----
 
 ### 📬 Connect With Me
 
 - **Email:** takomenteshashvili0@gmail.com  
-- **LinkedIn:** [linkedin.com/in/tako-menteshashvili](https://www.linkedin.com/in/tako-menteshashvili/)  
+- **LinkedIn:** [linkedin.com/in/tako-menteshashvili](https://www.linkedin.com/in/tako-menteshashvili/)
 - **Instagram:** [@swiftly.tako](https://www.instagram.com/swiftly.tako/)
 
----
 
 ### 🛠️ Skills & Tools
 
